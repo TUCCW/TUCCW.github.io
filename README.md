@@ -14,7 +14,7 @@
 
 ## 在线访问
 
-🔗 https://您的用户名.github.io/laoyufu-card/
+🔗 https://TUCCW.github.io/laoyufu-card/
 
 > 将上方网址生成二维码，印刷在名片上或发给客户，扫码即可查看完整产品信息。
 
